@@ -65,6 +65,8 @@ sich keine Sorgen machen müssen, was passieren könnte, wenn die neue
 Rechte die Macht übernimmt, von Neutralität, während andere sich Sorgen
 machten?)
 
+![Redaktionsorte XIV. Leipzig-Connewitz, April 2019](img/abb.jpg)
+
 Uns ist und war das alles nicht geheuer. Deshalb schrieben wir zu diesem
 ominösen Begriff der "Neutralität" -- der auch im Bibliothekswesen eine
 Geschichte hat, die aber auch in all den Beiträgen nicht referiert wird

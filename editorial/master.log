@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.14)  14 APR 2019 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 07:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -945,10 +945,14 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 226.
+<img/abb.jpg, id=13, 3276.24pt x 1842.885pt>
+File: img/abb.jpg Graphic file (type jpg)
+<use img/abb.jpg>
+Package pdftex.def Info: img/abb.jpg  used on input line 191.
+(pdftex.def)             Requested size: 184.37119pt x 103.70702pt.
 
 
-Package hyperref Warning: Suppressing empty link on input line 226.
+Package hyperref Warning: Suppressing empty link on input line 225.
 
 
 Package Fancyhdr Warning: \headheight is too small (17.0pt): 
@@ -957,27 +961,47 @@ Package Fancyhdr Warning: \headheight is too small (17.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 226.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 226.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 226.
+(babel)             in language  on input line 225.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 226.
-Package atenddvi Info: Last page = 2.
-[2]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 226.
+(babel)             in language  on input line 225.
+[2 <./img/abb.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+
+
+Package hyperref Warning: Suppressing empty link on input line 232.
+
+
+Package Fancyhdr Warning: \headheight is too small (17.0pt): 
+ Make it at least 25.60228pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 232.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 232.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 232.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 232.
+Package atenddvi Info: Last page = 3.
+[3]
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 232.
  (./master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 226.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 226.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
 Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15511 strings out of 492649
- 238730 string characters out of 6129622
- 487035 words of memory out of 5000000
- 19070 multiletter control sequences out of 15000+600000
+ 15522 strings out of 492649
+ 238848 string characters out of 6129622
+ 484354 words of memory out of 5000000
+ 19076 multiletter control sequences out of 15000+600000
  16813 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,12n,54p,9085b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -986,10 +1010,10 @@ Here is how much of TeX's memory you used:
 live/2018/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/local/texlive
 /2018/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on master.pdf (2 pages, 67776 bytes).
+Output written on master.pdf (3 pages, 2910651 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 10 words of extra memory for PDF output out of 10000 (max. 10000000)
 
