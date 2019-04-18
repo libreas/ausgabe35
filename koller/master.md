@@ -272,7 +272,7 @@ sondern seine politische Verortung im Zentrum steht, kaum.
 Bei den einschlägigen Beständen des Sozialarchivs zeigt sich
 diesbezüglich ein durchzogenes Bild. Die Materialien in der thematisch
 gegliederten und in einer vom Bibliothekskatalog separaten
-online-Datenbank (www.sachdokumentation.ch) nachgewiesenen
+online-Datenbank ([www.sachdokumentation.ch](www.sachdokumentation.ch)) nachgewiesenen
 Sachdokumentation sind durch entsprechende Einordnung in die Systematik
 unmissverständlich gekennzeichnet. Anders sieht es teilweise bei den
 Metadaten zum Bibliotheksbestand im Nebis-Katalog aus, der auch die
@@ -413,7 +413,7 @@ auf das deutsche, französische, englische und amerikanische Recht.
 Zürich: Schulthess Polygraphischer Verlag.
 
 Schweizerisches Sozialarchiv (2018): Leitbild vom 11.4.2018: URL:
-<https://www.sozialarchiv.ch/wp-content/uploads/fileadmin/user\_upload/Sozialarchiv/Dokumente/PDFs/Sozialarchiv/leitbild.pdf>
+<https://www.sozialarchiv.ch/wp-content/uploads/fileadmin/user_upload/Sozialarchiv/Dokumente/PDFs/Sozialarchiv/leitbild.pdf>
 
 Zentralstelle für Soziale Literatur der Schweiz (1932): Jahresbericht
 1932.
