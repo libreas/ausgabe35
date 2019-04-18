@@ -1,0 +1,4 @@
+---
+**Michaela Voigt** arbeitet seit 2014 im Open-Access-Team der Universitätsbibliothek der Technischen Universität Berlin und ist Redakteurin der LIBREAS. Library Ideas. ORCID: <https://orcid.org/0000-0001-9486-3189>
+
+**Sebastian Dittmann**, von 2015 bis 2018 Ausbildung zum Fachangestellten für Medien- und Informationsdienste (FaMI) an der Universitätsbibliothek der Technischen Universität Berlin; seit Februar 2018 Mitarbeiter im Open-Access-Team und der Abteilung Bibliothekssysteme der UB der TU Berlin.
