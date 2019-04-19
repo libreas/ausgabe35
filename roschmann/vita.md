@@ -1,2 +1,2 @@
 ---
-**Irmela Roschmann-Steltenkamp** ist seit Oktober 2016 Bibliotheksleiterin im Zentrum für Antisemitismusforschung, 1994-2016 Bibliotheksleiterin in der Stiftung Topographie des Terrors. Studium der Germanistik und Europäischen Ethnologie in Göttingen. 1995-1997 berufsbegleitendes Fernstudium am IBI der HU Berlin.
+**Irmela Roschmann-Steltenkamp** ist seit Oktober 2016 Bibliotheksleiterin im Zentrum für Antisemitismusforschung, 1994–2016 Bibliotheksleiterin in der Stiftung Topographie des Terrors. Studium der Germanistik und Europäischen Ethnologie in Göttingen. 1995–1997 berufsbegleitendes Fernstudium am IBI der HU Berlin.
