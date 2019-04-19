@@ -54,11 +54,10 @@ schauen lassen. Dann könnte man feststellen, wieviel nun eigentlich
 wirklich der Satz kostet, wieviel der Vertrieb, wieviel die Akquise, und
 ob all diese Ausgaben sinnvoll erscheinen.
 
-Was zu tun ist
-==============
+### Was zu tun ist
 
-Inventarisierung der Tätigkeiten
---------------------------------
+
+#### Inventarisierung der Tätigkeiten
 
 Was bedeutet *Offene Buchhaltung* in diesem Kontext? Als "nullter"
 Schritt muss erstmal expliziert werden, was eigentlich genau erstellt
@@ -72,8 +71,7 @@ in diesem Kontext die Liste "n things which publishers do" von Scholarly
 Kitchen (Anderson 2018). Der derzeitige Wert für n ist in dieser Liste
 102.
 
-Bezifferung der Kosten
-----------------------
+#### Bezifferung der Kosten
 
 Ausgehend von einer derartigen Liste (die auch durchaus eine geringere
 Länge haben kann) können dann die damit assoziierten Kosten ermittelt
@@ -84,8 +82,7 @@ entsprechende Initiative:[^2]
 > participating publishers have agreed to provide a breakdown of the
 > per-article costs of publishing."
 
-Veröffentlichung der Kosten
----------------------------
+#### Veröffentlichung der Kosten
 
 Der wesentliche Vorteil von nicht gewinnorientierten Verlagen liegt
 darin, dass sie freigiebig ihr Wissen teilen können. Das bezieht sich
@@ -134,8 +131,7 @@ denen die Autorenbetreuung mit 40 % den Löwenanteil ausmacht.
 
 ![Aufteilung der Kosten zwischen Koordination (rechts) und allem anderen (links)](img/Kuchen.png)
 
-Inventarisierung der Einnahmequellen
-------------------------------------
+#### Inventarisierung der Einnahmequellen
 
 Analog zu den Ausgaben kann man auch bei den Einnahmemöglichkeiten
 verfahren. Auch hier ist als erstes eine Inventarisierung der möglichen
@@ -143,16 +139,14 @@ Einnahmearten angebracht. Wer soll wie an den Kosten beteiligt werden?
 Leser über Freemium, Autoren über Gebühren, Bibliotheken über
 Mitgliedschaften, Forschungsförderer über Projektmittel?
 
-Bezifferung der projizierten Einnahmen
---------------------------------------
+#### Bezifferung der projizierten Einnahmen
 
 In gleicher Weise können nun den einzelnen Einnahmequellen Größen
 zugeordnet werden. Hierbei handelt es sich zuerst um Schätzungen, die
 dann später mit den tatsächlich erzielten Einnahmen abgeglichen werden
 können.
 
-Veröffentlichung der Einnahmen
-------------------------------
+#### Veröffentlichung der Einnahmen
 
 In dem Blogpost von OBP finden wir folgende Einnahmen:
 
@@ -164,8 +158,7 @@ In dem Blogpost von OBP finden wir folgende Einnahmen:
 Ungefähr 40 % entfallen also auf den Verkauf, während fast der gleiche
 Wert auf Grants entfällt.
 
-Zusammenfassung offene Buchhaltung
-----------------------------------
+#### Zusammenfassung offene Buchhaltung
 
 Um für die allgemeine Öffentlichkeit Transparenz hinsichtlich der Kosten
 der Monographieproduktion herzustellen, müssen also Kosten sowie
@@ -182,8 +175,7 @@ Beispiel von OBP.
 (Offensichtliche Analogien ergeben sich hier zu dem OpenAPC-Projekt im
 Zeitschriftenbereich: <https://treemaps.intact-project.org/>)
 
-Das Projekt *Full Disclosure*
-=============================
+### Das Projekt *Full Disclosure*
 
 Das OpenAire-Programm der EU hat im letzten Jahr einen Call zu
 *Alternative Funding Mechanism for non-author fee based Open Access
@@ -202,8 +194,7 @@ Folgende Dokumente liegen nun vor:
 3.  Eine granulare Tabellenkalkulation über fünf Jahre mit insgesamt 100 Variablen für Kosten und Einnahmen
 4.  Ein "Kochbuch" für die qualitativen Aspekte, von der Rechtsform bis zum Community Building.
 
-Geschäftsmodell
----------------
+#### Geschäftsmodell
 
 Im Jahr 2015 entwickelte eine Betriebswirtschaftlerin ein
 Geschäftsmodell für die Verstetigung von Language Science Press über
@@ -224,8 +215,7 @@ interessante Erkenntnisse. Die einzelnen Abschnitte des Geschäftsmodells
 werden mit den tatsächlich realisierten Kosten/Einnahmen verglichen und
 mögliche Alternativen werden aufgezeigt.
 
-Geschäftszahlen aus dem Jahr 2017
----------------------------------
+#### Geschäftszahlen aus dem Jahr 2017
 
 Die folgenden Zahlen stehen als csv-Dateien zum Download zur Verfügung:
 
@@ -239,8 +229,7 @@ Die Personalausgaben sind allerdings nicht den einzelnen
 Tätigkeitsfeldern zugeordnet, da eine entsprechende granulare
 Zeiterfassung nicht vorgenommen wurde.
 
-Tabellenkalkulation
--------------------
+#### Tabellenkalkulation
 
 Um die Personalausgaben besser Tätigkeiten zuordnen zu können, wird die
 interne Tabellenkalkulation mit 100 Variablen veröffentlicht. Die
@@ -259,15 +248,13 @@ der interne Personaleinsatz, aber die externen Kosten pro Buch erhöhen
 sich. Die Tabellenkalkulation läuft über fünf Jahre. Die Annahme ist,
 dass kein Projekt länger als fünf Jahre defizitär betrieben werden wird.
 
-Kochbuch
---------
+#### Kochbuch
 
 Das Kochbuch beinhaltet Grundlagen der Community-basierten
 Buchproduktion, Tipps und Tricks, Fallstricke sowie Lessons Learned und
 ist als qualitative Ergänzung der Kalkulationen gedacht.
 
-Einsichten
-==========
+### Einsichten
 
 Der Vorteil eines quantifizierten Modells ist, dass man es mit der
 Realität abgleichen kann. Hier der Abgleich für das Jahr 2017:
@@ -338,8 +325,7 @@ Druck anfallen:
 -   Lagerhaltung entfällt.
 -   Archivierung bei Zenodo kostet den Verlag nichts.
 
-Warum kostet ein wissenschaftliches Buch denn nun 28.000 EUR?
-=============================================================
+### Warum kostet ein wissenschaftliches Buch denn nun 28.000 EUR?
 
 Die Eingangsfrage dieses Artikels war "Warum kostet ein
 wissenschaftliches Buch 28.000 EUR?" Um diese Frage zu beantworten,
@@ -398,8 +384,7 @@ ersten Anlauf den Stein der Weisen gefunden hat, daher bitte ich um rege
 Kritik des Ansatzes und um die Veröffentlichungen weiterer Zahlen, auf
 dass sich ein empirischer Vergleich anstellen lasse.
 
-Dokumente
-=========
+### Dokumente
 
 Das Geschäftsmodell von Language Science Press steht auf PaperHive zum
 "Collaborative Reading" bereit:
@@ -411,8 +396,7 @@ Das Kochbuch findet sich auf
 Die Geschäftszahlen finden sich auf
 [https://github.com/langsci/opendata](https://github.com/langsci/opendata).
 
-Literatur
-=========
+### Literatur
 
 Adema, Janneke & Stone Graham. 2017. Changing publishing ecologies: A
 landscape study of new university presses and academic-led publishing.
