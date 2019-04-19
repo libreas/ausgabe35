@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.14)  18 APR 2019 06:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.14)  19 APR 2019 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -924,14 +924,10 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 121.
-
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 140.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 140.
 
 
 Package hyperref Warning: Suppressing empty link on input line 185.
@@ -956,13 +952,10 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 ]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 188.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 188.
 
 
 Package hyperref Warning: Suppressing empty link on input line 246.
@@ -982,13 +975,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 246.
 [2]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 249.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 249.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 249.
 
 
 Package hyperref Warning: Suppressing empty link on input line 308.
@@ -1026,13 +1016,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 379.
 [4]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 394.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 394.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 394.
 
 
 Package hyperref Warning: Suppressing empty link on input line 425.
@@ -1070,13 +1057,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 487.
 [6]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 535.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 535.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 535.
 
 
 Package hyperref Warning: Suppressing empty link on input line 552.
@@ -1096,14 +1080,10 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 552.
 [7]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 554.
-
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 554.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 554.
 
 Overfull \hbox (13.84752pt too wide) in paragraph at lines 574--576
 \T1/ppl/m/n/10.95 ch / wp -[] content / uploads / ^^\leadmin / user _ upload / 
@@ -1135,13 +1115,13 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 589.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: D1E70E38F6F7CE6791431F321DBF8CBA;351.
  ) 
 Here is how much of TeX's memory you used:
- 15560 strings out of 492649
- 239469 string characters out of 6129622
- 489986 words of memory out of 5000000
- 19095 multiletter control sequences out of 15000+600000
+ 15567 strings out of 492649
+ 239531 string characters out of 6129622
+ 490464 words of memory out of 5000000
+ 19102 multiletter control sequences out of 15000+600000
  25136 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,12n,54p,9085b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1153,10 +1133,10 @@ live/2018/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/local/texlive
 8/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (8 pages, 128234 bytes).
+Output written on master.pdf (8 pages, 128567 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 118 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  21 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
