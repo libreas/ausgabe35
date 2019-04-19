@@ -184,17 +184,17 @@ zurück; dies kann verschiedene Gründe haben: Die DOI wurde über eine
 andere DOI-Agentur registriert; die DOI wurde nicht (korrekt) vom Verlag
 registriert; die DOI ist syntaktisch nicht korrekt. Um die Fehlersuche
 zu erleichtern, bietet sich eine Anfrage an den globalen DOI-Resolver
-https://doi.org/doiRA/\$DOI an: Wurde die angefragte DOI registriert,
+`https://doi.org/doiRA/$DOI` an: Wurde die angefragte DOI registriert,
 wird die jeweilige DOI-Agentur ausgegeben; andernfalls gibt der Resolver
 Fehlermeldungen (zum Beispiel "DOI does not exist" oder "Invalid DOI")
 zurück. Dies lässt sich am einfachsten an einem Beispiel
 veranschaulichen:
 
 -   unvollständige DOI: <http://doi.org/doiRA/10.17161/jcel.v2i1.716>
-    mit Angabe status: \"DOI does not exist\"
+    mit Angabe `status: "DOI does not exist"`
 
 -   valide DOI: <http://doi.org/doiRA/10.17161/jcel.v2i1.7162> mit
-    Angabe RA: \"Crossref\"
+    Angabe `RA: "Crossref"`
 
 **OA-EZB-Schnittstelle:** Im Rahmen von Allianz- und Nationallizenzen
 wurden Open-Access-Rechte für die lizenznehmenden Institutionen

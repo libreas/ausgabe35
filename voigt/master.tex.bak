@@ -66,7 +66,7 @@ final
 \fancyhead[R]{\thepage}
 
 % make sure bookmarks are created eventough sections are not numbered!
- %uncommend if sections are numbered (bookmarks created by default)
+% uncommend if sections are numbered (bookmarks created by default)
 \makeatletter
 \renewcommand\@seccntformat[1]{}
 \makeatother
@@ -118,7 +118,7 @@ LIBREAS. Library Ideas, 35 (2019). % journal, issue, volume.
 
 %abstracts
 \begin{abstract}
-\noindent\textbf{Kurzfassung}: Der Artikel stellt den mithilfe von OpenRefine
+\textbf{Kurzfassung}: Der Artikel stellt den mithilfe von OpenRefine
 teilautomatisierten Workflow des Zweitveröffentlichungsservices der
 Technischen Universität Berlin vor: Es werden Hintergründe und
 Abwägungen, die einzelnen Schritte im Workflow und Möglichkeiten zur
@@ -127,7 +127,7 @@ Nachnutzung der erarbeiteten Materialien beschrieben und diskutiert.
 
 %body
 \hypertarget{hintergrund}{%
-\section{Hintergrund}\label{hintergrund}}
+\section*{Hintergrund}\label{hintergrund}}
 
 Anfang 2015 hat die Universitätsbibliothek der TU Berlin den
 \enquote{Zweitveröffentlichungsservice} für TU-Angehörige eingeführt. Er
@@ -245,7 +245,7 @@ um den Workflow des Zweitveröffentlichungsservices zu verbessern und
 Teilschritte zu automatisieren.
 
 \hypertarget{vorgehen}{%
-\section{Vorgehen}\label{vorgehen}}
+\section*{Vorgehen}\label{vorgehen}}
 
 Der Workflow wurde anhand der folgenden Prämissen und lokalen
 Voraussetzungen an der Universitätsbibliothek der TU Berlin entwickelt:
@@ -284,7 +284,7 @@ effizient und unter Berücksichtigung jeweiliger Interessen und
 Vorkenntnisse der eingebundenen Personen gestaltet werden kann.
 
 \hypertarget{datenquellen}{%
-\subsection{Datenquellen}\label{datenquellen}}
+\paragraph{Datenquellen}\label{datenquellen}}
 
 Für die Aggregation von Daten zu Publikationen kommen primär folgende
 Quellen zum Beispiel für die Nachnutzung bibliografischer Daten, Angaben
@@ -454,7 +454,7 @@ an die Springer-Schnittstelle zu stellen.\footnote{Springer:
   \url{https://dev.springernature.com/}}
 
 \hypertarget{schritte-im-workflow}{%
-\subsection{Schritte im Workflow}\label{schritte-im-workflow}}
+\paragraph{Schritte im Workflow}\label{schritte-im-workflow}}
 
 Der Workflow ist in verschiedene Module unterteilt (siehe Abbildung),
 für deren Bearbeitung mehrfach zwischen OpenRefine (für die Abfrage von
@@ -488,7 +488,7 @@ GitHub-Repository zu entnehmen.
 \end{figure}
 
 \hypertarget{projektaufnahme}{%
-\subsubsection{Projektaufnahme}\label{projektaufnahme}}
+\subsubsection*{Projektaufnahme}\label{projektaufnahme}}
 
 Autor*innen, die eine Zweitveröffentlichung wünschen, sind aufgefordert,
 ihre Publikationen in Form einer Liste von DOIs zu übermitteln. Dies
@@ -509,7 +509,7 @@ lediglich zwei Spalten ausgefüllt (\enquote{Projekt Nr.} und
 Citavi in ein Tabellenformat überführt.
 
 \hypertarget{metadatenakquise-1}{%
-\subsubsection{Metadatenakquise 1}\label{metadatenakquise-1}}
+\subsubsection*{Metadatenakquise 1}\label{metadatenakquise-1}}
 
 Liegt die Publikationsliste im erforderlichen Format vor, kommen
 erstmals OpenRefine-Skripte zum Einsatz, um Daten aus diversen Quellen
@@ -529,7 +529,7 @@ entsprechenden Skripte auszuführen; anschließend wird das Projekt als
 Excel-Datei exportiert.
 
 \hypertarget{rechtepruxfcfung}{%
-\subsubsection{Rechteprüfung}\label{rechtepruxfcfung}}
+\subsubsection*{Rechteprüfung}\label{rechtepruxfcfung}}
 
 Die eigentliche Rechteprüfung erfolgt in Excel. Mitunter können für
 einen Beitrag mehrere Rechtsgrundlagen für eine Zweitveröffentlichung
@@ -556,7 +556,7 @@ dokumentiert und wenn möglich werden Kontaktdaten für eine spätere
 Anfrage an den Verlag erfasst.
 
 \hypertarget{ruxfcckkopplung-autorin}{%
-\subsubsection{Rückkopplung Autor*in}\label{ruxfcckkopplung-autorin}}
+\subsubsection*{Rückkopplung Autor*in}\label{ruxfcckkopplung-autorin}}
 
 Nach der Rechteprüfung erfolgt erstmalig nach Projektannahme die
 Rückkopplung mit den Autor*innen: Es werden die Ergebnisse der
@@ -586,7 +586,7 @@ ist.\footnote{Pauschale Einverständniserklärung oder
 Einzelfallbasis eingereicht werden.
 
 \hypertarget{anfrage-verlage}{%
-\subsubsection{Anfrage Verlage}\label{anfrage-verlage}}
+\subsubsection*{Anfrage Verlage}\label{anfrage-verlage}}
 
 Verlage werden angeschrieben, um die für eine Zweitveröffentlichung
 erforderlichen Rechte einzuholen -- außer die Autor*in hat explizit den
@@ -598,7 +598,7 @@ Verlage antworten in der Regel zeitnah und gestatten die
 Zweitveröffentlichung.
 
 \hypertarget{metadatenkontrolle-1}{%
-\subsubsection{Metadatenkontrolle 1}\label{metadatenkontrolle-1}}
+\subsubsection*{Metadatenkontrolle 1}\label{metadatenkontrolle-1}}
 
 Mitunter entspricht die Schreibweise der Autor*innennamen aus Crossref
 nicht den Vorgaben für DepositOnce. Sie sind manuell zu korrigieren (zum
@@ -609,7 +609,7 @@ nachgenutzt. So wird sichergestellt, dass Korrekturen nur an einer
 Stelle erfolgen müssen.
 
 \hypertarget{metadatenakquise-2}{%
-\subsubsection{Metadatenakquise 2}\label{metadatenakquise-2}}
+\subsubsection*{Metadatenakquise 2}\label{metadatenakquise-2}}
 
 Sind die Publikationen identifiziert, für die eine Zweitveröffentlichung
 auf DepositOnce möglich ist, kann im Folgenden der Import vorbereitet
@@ -627,7 +627,7 @@ OpenRefine sind an dieser Stelle wieder lediglich die entsprechenden
 Skripte auszuführen.
 
 \hypertarget{datei-beschaffung-und-aufbereitung}{%
-\subsubsection{Datei: Beschaffung und
+\subsubsection*{Datei: Beschaffung und
 Aufbereitung}\label{datei-beschaffung-und-aufbereitung}}
 
 Ein Ergebnis der Rechteprüfung ist die Identifikation der zulässigen
@@ -653,7 +653,7 @@ werden einzelne Beiträge digitalisiert; dieser Service ist für
 Autor*innen kostenfrei.
 
 \hypertarget{metadatenkontrolle-2}{%
-\subsubsection{Metadatenkontrolle 2}\label{metadatenkontrolle-2}}
+\subsubsection*{Metadatenkontrolle 2}\label{metadatenkontrolle-2}}
 
 Ziel dieses Schrittes ist, die Metadaten final für den Upload in
 DepositOnce vorzubereiten. Dafür muss die bibliografische Beschreibung
@@ -674,7 +674,7 @@ berücksichtigen, für die auch eine Zweitveröffentlichung auf DepositOnce
 erfolgen soll.
 
 \hypertarget{dublettenkontrolle}{%
-\subsubsection{Dublettenkontrolle}\label{dublettenkontrolle}}
+\subsubsection*{Dublettenkontrolle}\label{dublettenkontrolle}}
 
 Anders als bei der Einreichung von Publikationen über das Onlineformular
 des Repositoriums gibt es bei einem CSV-Import keine Funktion, die
@@ -695,7 +695,7 @@ kommt ein OpenRefine-Skript zum Einsatz, so dass der Zeitaufwand gering
 ist.
 
 \hypertarget{vorbereitung-csv}{%
-\subsubsection{Vorbereitung CSV}\label{vorbereitung-csv}}
+\subsubsection*{Vorbereitung CSV}\label{vorbereitung-csv}}
 
 Für den fehlerfreien Import in DSpace muss die CSV-Datei bestimmten
 Vorgaben entsprechen.\footnote{Vergleiche DSpace-Dokumentation:
@@ -709,7 +709,7 @@ Spreadsheet eingefügt, welches den Export einer geeigneten CSV
 ermöglicht.
 
 \hypertarget{upload-depositonce}{%
-\subsubsection{Upload DepositOnce}\label{upload-depositonce}}
+\subsubsection*{Upload DepositOnce}\label{upload-depositonce}}
 
 Mit dem CSV-Import in DepositOnce werden die Datensätze sofort neu
 angelegt, sie erscheinen nach kurzer Zeit im Bereich \enquote{Recent
@@ -733,7 +733,7 @@ gegebenenfalls ist ein Embargo einzustellen\footnote{DSpace unterstützt
   Frist möglich -- die Freischaltung erfolgt dann automatisch.}.
 
 \hypertarget{projektdokumentation}{%
-\subsubsection{Projektdokumentation}\label{projektdokumentation}}
+\subsubsection*{Projektdokumentation}\label{projektdokumentation}}
 
 Nach Abschluss erfolgt die abschließende Dokumentation in Trello und
 eine abschließende E-Mail-Information an die Autor*in beziehungsweise
@@ -746,7 +746,7 @@ Publikationen -- entweder melden sie Neuerscheinungen direkt über
 DepositOnce oder per E-Mail.
 
 \hypertarget{diskussion}{%
-\section{Diskussion}\label{diskussion}}
+\section*{Diskussion}\label{diskussion}}
 
 Als sich herauskristallisiert hatte, welche Schritte wie automatisierbar
 sind, wurde die technische Umsetzung intern lange und kontrovers
@@ -886,7 +886,7 @@ Bearbeitungshistorie exportiert und lokal abgelegt werden, um ein
 eigenes Skript zur späteren Nachnutzung zu erstellen.
 
 \hypertarget{ausblick}{%
-\section{Ausblick}\label{ausblick}}
+\section*{Ausblick}\label{ausblick}}
 
 Erfolgreiche bibliothekarische Zweitveröffentlichungsservices wie die
 des KIT Karlsruhe (Tobias (2018)) oder des WZB Berlin (Blasetti et al.
@@ -955,7 +955,7 @@ wir uns aber mit dem hier vorgestellten Workflow gut gerüstet für die
 in der Praxis gut funktionierender, effizienter Workaround.
 
 \hypertarget{literatur}{%
-\section{Literatur}\label{literatur}}
+\section*{Literatur}\label{literatur}}
 
 Blasetti, Alessandro; Golda, Sandra; Göhring, Dominic; Grimm, Steffi;
 Kroll, Nadin; Sievers, Denise; Voigt, Michaela (2019). Smash the
