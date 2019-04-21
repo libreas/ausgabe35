@@ -47,7 +47,7 @@ Subjekt. Die Möglichkeit eines neutralen Standpunktes, der absolute
 Objektivität ermöglicht, wird verneint. \[...\] Da man davon ausgeht,
 dass jede Sichtweise subjektiv ist, werden wissenschaftlich verwertbare
 Ergebnisse an bestimmten, anerkannten Methoden und Standards des
-Forschens gemessen." [^2] Von staatlich finanzierten Öffentlichen
+Forschens gemessen."[^2] Von staatlich finanzierten Öffentlichen
 Bibliotheken wird Neutralität und Objektivität erwartet. Ihre Aufgabe
 ist es, ihren Leser\*innen Literatur des gesamten Spektrums zur
 Verfügung zu stellen und somit Informationsfreiheit und das Recht auf
