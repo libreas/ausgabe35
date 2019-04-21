@@ -1,0 +1,4 @@
+---
+**Christian Meskó**  ist bibliotheks-, informations-, politikwissenschaftlich und unter anderem auch historisch und literarisch daran interessiert, die oft als alternativlos dargestellten Fassadenpersönlichkeiten spätkapitalistischer Gesellschaften im selbstironischen rezitierwettbewerb von coolness, sex, gewalt und narzisstischer Machtdemonstration schön in ihre Einzelteile zu zerlegen. Nach einem politikwissenschaftlichen Diplom (Abschluss 2011), einigen literarischen und politikwissenschaftlichen Publikationen, studiert er gerade am IBI im 4. Semester Bibliotheks- und Informationswissenschaften.
+
+Mehr dazu im Blog: "Schundromanliteratur" (<http://jackfog.bplaced.net/>).
