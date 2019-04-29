@@ -1,4 +1,4 @@
-### Einleitung
+### 1 Einleitung
 
 Dass Bibliotheken bei Bestandsaufbau und -vermittlung die inhaltliche
 Neutralität als Leitbild haben, ist Ausdruck eines konkreten Weltbildes.
@@ -45,7 +45,7 @@ auch etwas über die Weltanschauung sagt, aus der heraus heute die
 "Neutralität" von Bibliotheken als anzustrebendes Ziel hergeleitet wird,
 oder ob sie ein rein historischer Fakt ist. (5)
 
-### Was waren "Arbeiterbibliotheken"? Ein kurzer Überblick
+### 2 Was waren "Arbeiterbibliotheken"? Ein kurzer Überblick
 
 Die Kritik an den "bürgerlichen Bibliotheken" -- den Volksbüchereien,
 den Lesehallen und ähnlichen kommunal oder durch Philanthropie
@@ -57,7 +57,7 @@ Hintergrund die "Arbeiterbewegung" Ende des 19. und Anfang des 20.
 Jahrhunderts geschildert (2.1), anschliessend die Arbeit der
 Bibliotheken dieser Bewegung (2.2) und ihre Bestandsarbeit (2.3).
 
-#### Die damalige sozialistische Bewegung in Deutschland und Österreich
+#### 2.1 Die damalige sozialistische Bewegung in Deutschland und Österreich
 
 Die Industrialisierung in Deutschland und Österreich ging bekanntlich
 einher mit dem Entstehen der "Arbeiterbewegung" mit all ihren
@@ -146,7 +146,7 @@ Strömung, aus der sie hervorgegangen waren, zu übernehmen.[^3] Auch dies
 machte vor den Bibliotheken nicht halt. Die "Arbeiterbibliotheken", um
 die es hier gehen soll, müssen vor diesem Hintergrund gesehen werden.
 
-#### "Arbeiterbibliotheken"
+#### 2.2 "Arbeiterbibliotheken"
 
 "Arbeiterbibliotheken" waren Bibliotheken, die aus der
 "Arbeiterbewegung" heraus für Mitglieder dieser Bewegung gegründet
@@ -242,7 +242,7 @@ Simmering", Wien (in: Bildungsarbeit. Blätter für sozialistisches
 Bildungswesen, XIV (1927) 1, 15 (Digitalisat der Österreichischen
 Nationalbibliothek)](img/Schuldt02.jpg)
 
-#### Der Bestand: Kein Schmutz, kein Schund -- für die Selbstbefreiung des Proletariats
+#### 2.3 Der Bestand: Kein Schmutz, kein Schund -- für die Selbstbefreiung des Proletariats
 
 Zum Bestand der "Arbeiterbibliotheken" fallen im Rückblick von heute
 zwei Dinge auf: Die Sorge um die literarische Qualität und die
@@ -375,7 +375,7 @@ die in allen standen oder in keinen. Es ging nicht nur um die Frage der
 literarischen Qualität, sondern auch um den konkreten Inhalt -- nicht
 nur um "Schmutz und Schund", sondern auch um Ideologie.
 
-### Kritik am "bürgerlichen Büchereiwesen": Neutralität als Ideologie
+### 3 Kritik am "bürgerlichen Büchereiwesen": Neutralität als Ideologie
 
 In der "Arbeiterbewegung" wurde, wie gesagt, davon ausgegangen, dass es
 (a) einen zentralen Antagonismus zwischen verschiedenen Klassen gäbe,
@@ -579,7 +579,7 @@ Diese Kritik an Lesehallen schloss, wie gesagt, nicht aus, dass
 Entwicklungen interessiert waren wie die Lesehallen oder inhaltliche
 Vorstellungen in Bezug auf Literatur und literarische Qualität teilten.
 
-### Das Ende der "Arbeiterbibliotheken"
+### 4 Das Ende der "Arbeiterbibliotheken"
 
 Um die Bedeutung der damaligen Kritik für die heutige Zeit
 einzuschätzen, ist es notwendig, kurz zu referieren, warum es heute
@@ -668,7 +668,7 @@ Bibliotheken als Beispiel dafür angeführt werden, dass die
 wäre. Interessant auch die Bilder aus der kleineren Arbeiterbibliothek
 des Autors. Auch diese funktioniert als Thekenbibliothek. (in: Die
 Arbeiterbücherei. Sonderbeilage 3 zur: Bildungsarbeit. Blätter für
-sozialistisches Bildungswesen, XVII (1930) 26-27 (Digitalisat der
+sozialistisches Bildungswesen, XVII (1930) 26--27 (Digitalisat der
 Österreichischen Nationalbibliothek)](img/Schuldt06.jpg)
 
 Insoweit kann man sagen, dass die "Arbeiterbibliotheken" nicht an sich
@@ -706,7 +706,7 @@ implizite Kritik an den anderen Bibliothekstypen vermittelte: So, wie
 ein spezifischer Bibliothekstyp war, musste er nicht sein. Es ging immer
 auch anders.[^9]
 
-### Fazit: Kann die Öffentliche Bibliothek eine neutrale Bibliothek sein?
+### 5 Fazit: Kann die Öffentliche Bibliothek eine neutrale Bibliothek sein?
 
 "Arbeiterbibliotheken" bestanden also über mehrere Jahrzehnte als
 erfolgreicher Bibliothekstyp und übten unter anderem an einer
