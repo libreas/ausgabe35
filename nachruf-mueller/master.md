@@ -144,7 +144,7 @@ Ehemann und Vater.
 
 Er hat in sich "eine einzigartige Kombination aus positiven Attributen vereint und mit
 seiner Kompetenz die DDB und seiner Menschlichkeit sein Umfeld
-geprägt".Uwe Müller habe ich erlebt als: **U**neitel, **W**issend,
+geprägt". Uwe Müller habe ich erlebt als: **U**neitel, **W**issend,
 **E**mpathisch, **M**itdenkend, **Ü**berdurchschnittlich engagiert,
 **L**ösungsorientiert, **L**iebenswert, **E**iner für alle, **R**uhig.
 
